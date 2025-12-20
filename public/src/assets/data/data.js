@@ -81,9 +81,9 @@ export const data = {
         },
         {
             id: 2,
-            name: 'Ipsum Lorem',
+            name: 'Sarah Zahra Nurbani',
             icon: './src/assets/images/bri.png',
-            rekening: '12345678'
+            rekening: '177-002-144-2360'
         },
     ],
 
