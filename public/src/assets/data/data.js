@@ -75,7 +75,7 @@ export const data = {
     bank: [
         {
             id: 1,
-            name: 'Lorem Ipsum',
+            name: 'Rudiana',
             icon: './src/assets/images/bca.png',
             rekening: '12345678'
         },
